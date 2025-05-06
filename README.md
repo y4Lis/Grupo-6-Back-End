@@ -1,8 +1,8 @@
 # grupo6---204
 ---
 # participantes:
-Ana Clara 
-Heitor Almeida
+<p>Ana Clara</p> 
+<p>Heitor Almeida</p> 
 Isabelly Vitoria
 Nicolly Amaral
 Rihan Kelvyn

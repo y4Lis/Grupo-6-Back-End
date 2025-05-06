@@ -1,6 +1,6 @@
 # grupo6---204
 ---
-#participantes:
+# participantes:
 Ana Clara 
 Heitor Almeida
 Isabelly Vitoria

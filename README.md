@@ -1,8 +1,8 @@
-# grupo6--204 Back-End
+# grupo6--204
 ---
 # participantes:
-<p>Ana Clara</p>
+<p>Ana Clara dos Anjos Lima</p>
 <p>Heitor Almeida</p>
-<p> Isabelly Vitoria</p>
-<p>Nicolly Amaral</p>
+<p> Isabelly Vitoria dos Santos Quaresma</p>
+<p>Nicolly Rocha do Amaral</p>
 <p>Rihan Kelvyn</p>
